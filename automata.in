@@ -1,0 +1,13 @@
+circulos-contacto-duro-sistema.dat 	!Fichero con la configuracion inicial
+0.6		!Densidad (solo sirve si el fichero de configuración = aleatorio)
+500		!Tamaño del sistema
+0.35		!Temperatura
+0.5 		!Coeficiente para el crecimiento de masa
+0.05		!Coeficiente para la reducción de masa
+0.01		!Criterio de variación energética para el estado final
+200		!Número de iteraciones para promedio
+1000		!Número de interaciones minimas
+2		!Número de fases
+0		!Energía de interfase: vacío-vacío
+1		!Energía de interfase: vacío-materia
+0		!Energía de interfase: materia-materia
