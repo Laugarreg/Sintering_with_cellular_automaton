@@ -1,0 +1,4 @@
+500		!Tamaño de la caja
+0.60d0		!Densidad
+20.0d0		!Radio de los circulos
+10000		!Numero de intentos para colocar circulo
